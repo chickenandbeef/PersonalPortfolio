@@ -64,8 +64,7 @@ nav{
     top: 15px;
     color: whitesmoke;
     opacity: 0;
-    pointer-events: none;
-    font-size: clamp(2.5rem, 0.5rem + 3vw, 3rem) ;
+    font-size: clamp(2.5rem, 0.5rem + 3vw, 3rem)
 }
 
 .nav-container .links{

@@ -444,10 +444,11 @@ section .button button:hover{
 .contact{
     background: black;
 }
+
 .contact .content{
     margin: 0 auto;
     padding: 30px 0 ;
-    display: flex;
+    display: flex  ;
     flex-direction: column;
      justify-content: center;
      align-items: center;
@@ -458,36 +459,16 @@ section .button button:hover{
     text-align: center;
     margin: auto;
     color: whitesmoke;
-    font-size: 22px;
+    font-size: 23px;
 }
 
 .contact .text p{
-    font-size: 22px;
+    font-size: 23px;
     color: whitesmoke;
     text-align: center;
 }
 
-/* Responsive Design */
-
-@media(max-width: 768px){
-    .contact-form-container{
-        padding: 10px;
-    }
-}
-
-@media(max-width: 480px){
-    .contact-form h2{
-        font-size: 20px;
-    }
-
-    .contact-form{
-        padding: 0px;
-    }
-
-    .contact-btn{
-        font-size: 16px;
-    }
-}
+/* Footer Section */
 
 footer{
     background: #b74b4b;

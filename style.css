@@ -452,7 +452,6 @@ section .button button:hover{
     flex-direction: column;
      justify-content: center;
      align-items: center;
-
 }
 .contact .text{
     width: 20%;
@@ -463,9 +462,8 @@ section .button button:hover{
 }
 
 .contact .text p{
-    font-size: 23px;
+    font-size: 1.4rem;
     color: whitesmoke;
-    text-align: center;
 }
 
 /* Footer Section */
